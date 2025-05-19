@@ -1,0 +1,25 @@
+header{
+    height: 400px;
+    background-color: #dadbf1;
+    display: flex;
+    flex-direction:column;
+    align-items : center;
+}
+.head{
+    font-size: 70px;
+    height: 30px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.search-header{
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    height: 80px;
+    width: 50%;
+    font-size: 30px;
+    text-align: left;
+    padding-left: 10px;
+    box-shadow: 1px 1px 5px ;
+}
